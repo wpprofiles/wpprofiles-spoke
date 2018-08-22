@@ -1,14 +1,14 @@
 <?php
 /**
- * WP PRofiles Spoke
+ * WP Profiles Spoke
  *
- * @package     WPPRofiles-Spoke
+ * @package     WPrRofiles-Spoke
  * @author      Richard Tape, Jeremy Felt
  * @copyright   2018 WPProfiles
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
- * Plugin Name: WPPRofiles Spoke
+ * Plugin Name: WPProfiles Spoke
  * Plugin URI:  https://wpprofiles.com/plugins/wpprofiles-spoke/
  * Description: The Spoke for WP Profiles. Where folks display profiles from the Hub.
  * Version:     0.0.1
